@@ -1,0 +1,15 @@
+button {
+	font-size: 40px;
+    font: arial;
+    color: darkblue;
+    background-color: green;
+    text-align: center;
+}
+
+body {
+	background-image: url("http://thecutestblogontheblock.com/wp-content/uploads/2012/06/shabby-freedom-patriotic-twitter-background.jpg");
+}
+
+#gifsAppearHere {
+	text-align: center;
+}
